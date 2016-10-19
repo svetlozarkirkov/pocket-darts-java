@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-gradle-template.iml" filepath="$PROJECT_DIR$/.idea/modules/java-gradle-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-gradle-template_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-gradle-template_main.iml" group="java-gradle-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-gradle-template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-gradle-template_test.iml" group="java-gradle-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pocket-darts-java.iml" filepath="$PROJECT_DIR$/.idea/pocket-darts-java.iml" />
+    </modules>
+  </component>
+</project>
